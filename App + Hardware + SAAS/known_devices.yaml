@@ -1,0 +1,405 @@
+vinayak:
+  hide_if_away: false
+  icon:
+  mac: XX:XX:XX:XX:XX:XX
+  name: Vinayak
+  picture: /local/Vinayak.jpg
+  track: true
+  vendor: Apple, Inc.
+
+raspberrypi:
+  hide_if_away: false
+  icon:
+  mac: XX:XX:XX:XX:XX:XX
+  name: Pi
+  picture: /local/raspberry-pi-logo.png
+  track: true
+  vendor: Raspberry Pi Foundation
+
+Varun:
+  hide_if_away: false
+  icon:
+  mac: XX:XX:XX:XX:XX:XX
+  name: Varun
+  picture: /local/Varun.jpg
+  track: true
+  vendor: Motorola Mobility LLC, a Lenovo Company
+
+Raghvendra:
+  hide_if_away: false
+  icon:
+  mac: XX:XX:XX:XX:XX:XX
+  name: Raghvendra
+  picture: /local/Raghvendra.jpg
+  track: true
+  vendor: Apple, Inc.
+
+Sahil:
+  hide_if_away: false
+  icon:
+  mac: XX:XX:XX:XX:XX:XX
+  name: Sahil
+  picture: /local/Sahil.jpg
+  track: true
+  vendor: Motorola Mobility LLC, a Lenovo Company
+
+#vmittalsjcmbp:
+#  hide_if_away: false
+#  icon:
+#  mac: XX:XX:XX:XX:XX:XX
+#  name: VMittalSJC-MBP
+#  picture:
+#  track: false
+#  vendor: unknown
+
+#android5d3a3bb1344cb47b:
+#  hide_if_away: false
+#  icon:
+#  mac: XX:XX:XX:XX:XX:XX
+#  name: android-5d3a3bb1344cb47b
+#  picture:
+#  track: true
+#  vendor: unknown
+
+#raghvendrasipad:
+#  hide_if_away: false
+#  icon:
+#  mac: XX:XX:XX:XX:XX:XX
+#  name: RaghvendrasiPad
+#  picture:
+#  track: true
+#  vendor: unknown
+
+ESP_MODULE:
+  hide_if_away: false
+  icon:
+  mac: XX:XX:XX:XX:XX:XX
+  name: ESP
+  picture:
+  track: true
+  vendor: unknown
+
+#raghvendras_air:
+#  hide_if_away: false
+#  icon:
+#  mac: XX:XX:XX:XX:XX:XX
+#  name: Raghvendras-Air
+#  picture:
+#  track: true
+#  vendor: unknown
+
+Parth:
+  hide_if_away: false
+  icon:
+  mac: XX:XX:XX:XX:XX:XX
+  name: Parth
+  picture: /local/Parth.jpg
+  track: true
+  vendor: unknown
+
+#hs100:
+#  hide_if_away: false
+#  icon:
+#  mac: XX:XX:XX:XX:XX:XX
+#  name: HS100
+#  picture:
+#  track: true
+#  vendor: unknown
+
+#desktopd696nm3:
+#  hide_if_away: false
+#  icon:
+#  mac: XX:XX:XX:XX:XX:XX
+#  name: DESKTOP-D696NM3
+#  picture:
+#  track: false
+#  vendor: Rivet Networks
+
+#Parth_PC:
+#  hide_if_away: false
+#  icon:
+#  mac: XX:XX:XX:XX:XX:XX
+#  name: DESKTOP-72CP3V4
+#  picture: https://www.facebook.com/photo.php?fbid=371540346287523&set=a.291161224325436.66611.100002946837195&type=3&theater
+#  track: false
+#  vendor: Intel Corporate
+#
+
+#sahil_PC:
+#  hide_if_away: false
+#  icon:
+#  mac: XX:XX:XX:XX:XX:XX
+#  name: Sahil
+#  picture:
+#  track: true
+#  vendor: Liteon Technology Corporation
+
+#anshumansmbp:
+#  hide_if_away: false
+#  icon:
+#  mac: XX:XX:XX:XX:XX:XX
+#  name: Anshumans-MBP
+#  picture:
+#  track: false
+#  vendor: Apple, Inc.
+
+#raghvendrasipad:
+#  hide_if_away: false
+#  icon:
+#  mac: XX:XX:XX:XX:XX:XX
+#  name: RaghvendrasiPad
+#  picture:
+#  track: true
+#  vendor: Apple, Inc.
+
+#raghvendrasair:
+#  hide_if_away: false
+#  icon:
+#  mac: XX:XX:XX:XX:XX:XX
+#  name: Raghvendras-Air
+#  picture:
+#  track: true
+#  vendor: Apple, Inc.
+
+#desktop72cp3v4:
+#  hide_if_away: false
+#  icon:
+#  mac: XX:XX:XX:XX:XX:XX
+#  name: DESKTOP-72CP3V4
+#  picture:
+#  track: true
+#  vendor: unknown
+
+#sahil_2:
+#  hide_if_away: false
+#  icon:
+#  mac: XX:XX:XX:XX:XX:XX
+#  name: Sahil
+#  picture:
+#  track: true
+#  vendor: unknown
+
+#hs100:
+#  hide_if_away: false
+#  icon:
+#  mac: XX:XX:XX:XX:XX:XX
+#  name: HS100
+#  picture:
+#  track: true
+#  vendor: unknown
+
+#desktopd696nm3:
+#  hide_if_away: false
+#  icon:
+#  mac: XX:XX:XX:XX:XX:XX
+#  name: DESKTOP-D696NM3
+#  picture:
+#  track: true
+#  vendor: Rivet Networks
+
+#vmittalsjcmbp:
+#  hide_if_away: false
+#  icon:
+#  mac: XX:XX:XX:XX:XX:XX
+#  name: VMittalSJC-MBP
+#  picture:
+#  track: true
+#  vendor: unknown
+
+#nbsp:
+#  hide_if_away: false
+#  icon:
+#  mac: XX:XX:XX:XX:XX:XX
+#  name: '&nbsp;'
+#  picture:
+#  track: true
+#  vendor: unknown
+
+#7056818a4269:
+#  hide_if_away: false
+#  icon:
+#  mac: XX:XX:XX:XX:XX:XX
+#  name: 7056818a4269
+#  picture:
+#  track: true
+#  vendor: Apple, Inc.
+
+#phone_phone:
+#  hide_if_away: false
+#  icon:
+#  mac:
+#  name: phone
+#  picture:
+#  track: true
+#  vendor:
+
+#desktop027iv5l:
+#  hide_if_away: false
+#  icon:
+#  mac: XX:XX:XX:XX:XX:XX
+#  name: DESKTOP-027IV5L
+#  picture:
+#  track: true
+#  vendor: Hon Hai Precision Ind. Co.,Ltd.
+
+#10683f8fe460:
+#  hide_if_away: false
+#  icon:
+#  mac: XX:XX:XX:XX:XX:XX
+#  name: 10683f8fe460
+#  picture:
+#  track: true
+#  vendor: LG Electronics (Mobile Communications)
+
+chromecast:
+  hide_if_away: false
+  icon:
+  mac: XX:XX:XX:XX:XX:XX
+  name: Chromecast
+  picture:
+  track: true
+  vendor: Google, Inc.
+
+phone_phone:
+  hide_if_away: false
+  icon:
+  mac:
+  name: phone
+  picture:
+  track: true
+  vendor:
+
+raghvendrasair:
+  hide_if_away: false
+  icon:
+  mac: XX:XX:XX:XX:XX:XX
+  name: Raghvendras-Air
+  picture:
+  track: true
+  vendor: Apple, Inc.
+
+amazon5387c9979:
+  hide_if_away: false
+  icon:
+  mac: XX:XX:XX:XX:XX:XX
+  name: amazon-5387c9979
+  picture:
+  track: true
+  vendor: Amazon Technologies Inc.
+
+desktop72cp3v4:
+  hide_if_away: false
+  icon:
+  mac: XX:XX:XX:XX:XX:XX
+  name: DESKTOP-72CP3V4
+  picture:
+  track: true
+  vendor: unknown
+
+shilakhasmbp:
+  hide_if_away: false
+  icon:
+  mac: XX:XX:XX:XX:XX:XX
+  name: Shilakhas-MBP
+  picture:
+  track: true
+  vendor: unknown
+
+sahil_2:
+  hide_if_away: false
+  icon:
+  mac: XX:XX:XX:XX:XX:XX
+  name: Sahil
+  picture:
+  track: true
+  vendor: unknown
+
+hs100:
+  hide_if_away: false
+  icon:
+  mac: XX:XX:XX:XX:XX:XX
+  name: HS100
+  picture:
+  track: true
+  vendor: unknown
+
+raghvendrasipad:
+  hide_if_away: false
+  icon:
+  mac: XX:XX:XX:XX:XX:XX
+  name: RaghvendrasiPad
+  picture:
+  track: true
+  vendor: Apple, Inc.
+
+vmittalsjcmbp:
+  hide_if_away: false
+  icon:
+  mac: XX:XX:XX:XX:XX:XX
+  name: VMittalSJC-MBP
+  picture:
+  track: true
+  vendor: unknown
+
+desktopd696nm3:
+  hide_if_away: false
+  icon:
+  mac: XX:XX:XX:XX:XX:XX
+  name: DESKTOP-D696NM3
+  picture:
+  track: true
+  vendor: unknown
+
+005a13e4ad26:
+  hide_if_away: false
+  icon:
+  mac: XX:XX:XX:XX:XX:XX
+  name: 005a13e4ad26
+  picture:
+  track: true
+  vendor: HUAWEI TECHNOLOGIES CO.,LTD
+
+4098ad9c6fe6:
+  hide_if_away: false
+  icon:
+  mac: XX:XX:XX:XX:XX:XX
+  name: 4098ad9c6fe6
+  picture:
+  track: true
+  vendor: Apple, Inc.
+
+shilensnote5:
+  hide_if_away: false
+  icon:
+  mac: XX:XX:XX:XX:XX:XX
+  name: Shilens-Note-5
+  picture:
+  track: true
+  vendor: SAMSUNG ELECTRO-MECHANICS(THAILAND)
+
+preet:
+  hide_if_away: false
+  icon:
+  mac: XX:XX:XX:XX:XX:XX
+  name: Preet
+  picture:
+  track: true
+  vendor: Apple, Inc.
+
+shilensmbp:
+  hide_if_away: false
+  icon:
+  mac: XX:XX:XX:XX:XX:XX
+  name: Shilens-MBP
+  picture:
+  track: true
+  vendor: unknown
+
+shaheryar:
+  hide_if_away: false
+  icon:
+  mac: XX:XX:XX:XX:XX:XX
+  name: Shaheryar
+  picture:
+  track: true
+  vendor: unknown
